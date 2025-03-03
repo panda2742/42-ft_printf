@@ -1,6 +1,6 @@
 # ft_printf
 
-This is a remake of the versatile and popular C function: ft_printf. The first project after libft.
+My personal remake of the C printf function. A lighter and simpler version.
 
 | Project | ft_printf                  |
 |:--------|---------------------------:|
